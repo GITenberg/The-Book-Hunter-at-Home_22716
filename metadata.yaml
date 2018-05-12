@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25497'
     url: http://www.gutenberg.org/2009/agents/25497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22716#The-Book-Hunter-at-Home
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2007-09-22'
 gutenberg_type: Text
