@@ -1,0 +1,31 @@
+_repo: The-Book-Hunter-at-Home_22716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allan, P. B. M. (Philip Bertram Murray)
+    alias: Allan, Philip Bertram Murray
+    birthdate: 1884
+    deathdate: 1973
+    gutenberg_agent_id: '25497'
+    url: http://www.gutenberg.org/2009/agents/25497
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+tableOfContents: I. Adventures among books -- II. The library -- III. Books which
+  form the library -- IV. Chivalry and romance -- V-VI. The care of books -- VII.
+  Books of the collector -- VIII-IX. A plea for specialism -- Index.
+title: The Book-Hunter at Home
+url: http://www.gutenberg.org/ebooks/22716
